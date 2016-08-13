@@ -1,0 +1,20 @@
+.background-purple {
+	background-color: #8e44ad;
+}
+
+#bids {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.mt {
+    margin-top: 4%;
+}
+
+.mb {
+    margin-bottom: 4%;
+}
+
+#date input {
+    text-align: center;
+}
