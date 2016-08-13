@@ -1,0 +1,12 @@
+Dossier contenant les artie php
+
+example
+header.php
+footer.php
+welcome.php // html de la page d'acceuil
+espace_client.php
+espace_admin.php
+nav_welcome.php (boutton inscription et connexion en modal)
+nav_espaceclietn.php
+nav_espaceadmin.php
+enchere.php

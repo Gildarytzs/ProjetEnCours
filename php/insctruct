@@ -1,0 +1,13 @@
+!! Ces fonction doivent etre include dans init.php
+
+conf_inc.php
+access.php = fonction de conenxion/inscription
+bid.php : ajout d'une enchère
+		suppression d'une enchère
+		proposition d'une enchère
+	// Penser à controler l'affichage des enchère non-validé
+	mettre une mise
+	fin du timer controle des mise, validation des gagnants
+Messagerie.php
+portefeuille.php
+	
