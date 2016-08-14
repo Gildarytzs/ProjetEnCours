@@ -1,4 +1,7 @@
-
+<?php
+include "form_connexion.php"; 
+include "form_inscription.php"; 
+?>
 <div id="bids" class="container-fluid">
     <div class="row">
         <h2 class="mb text-center">Enchères en cours</h2>
