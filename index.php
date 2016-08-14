@@ -1,4 +1,5 @@
 <?php
+echo "Hello World !";
 include "init.php";
 include "php/access.php";
 include "php_html/header.php";
