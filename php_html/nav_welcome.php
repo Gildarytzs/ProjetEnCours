@@ -1,6 +1,4 @@
-<?php 
-include "header.php";
-?>
+
 <nav class="navbar navbar-fixed-top navbar-default">
             <div class="container-fluid background-purple">
                 
