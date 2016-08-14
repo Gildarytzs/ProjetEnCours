@@ -4,6 +4,8 @@
 	14/08 :
 		- Créer fichier php/form_inscription.php : modal d'inscription
 		- Créer fichier php/form_connexion.php : moal de connexion
+		- Include les forms dans welcome.php
+		- Connect bdd dans init.php => include init.php dans access.php
 		- Fichier access.php : mettre les fonctions en liens avec la connexion et l'inscription
 		- VOir commmentaire sur init.php et index.php
 		- Tester la connexion et l'inscription
