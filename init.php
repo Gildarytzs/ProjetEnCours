@@ -2,6 +2,7 @@
 session_start();
 require "php/conf.inc.php";
 require "functions.php";
+include "php/access.php";
 
 
 function connectBdd() {
