@@ -1,5 +1,6 @@
 <?php
 include "init.php";
+include "php/access.php";
 include "php_html/header.php";
 if(isConnected()){
 	if($_SESSION['admin']){
