@@ -1,7 +1,3 @@
-<?php include "welcome.php" ; ?>
-
-<!-- Inscription -->
-
 <div id="inscription" class="container-fluid">
     <div class="row">
         <div class="col-md-3"></div>

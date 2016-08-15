@@ -1,6 +1,3 @@
-<?php include "welcome.php" ; ?>
-<!-- Connexion -->
-
 <div id="login" class="modal fade" role="dialog">
     <div class="modal-dialog modal-sm">
         <div class="modal-content">
