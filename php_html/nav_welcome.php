@@ -13,7 +13,7 @@
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a data-toggle="modal" data-target="#login"><span class="glyphicon glyphicon-off orange-color"></span> Connexion</a></li>';
+                    <li><a data-toggle="modal" data-target="#login"><span class="glyphicon glyphicon-off orange-color"></span> Connexion</a></li>
                     <li><a data-toggle="modal" data-target="#inscription"><span class="glyphicon glyphicon-off orange-color"></span> Inscription</a></li>
                 </ul>
                 
