@@ -1,4 +1,5 @@
 <?php
+include "nav_welcome.php";
 include "form_connexion.php"; 
 include "form_inscription.php"; 
 ?>

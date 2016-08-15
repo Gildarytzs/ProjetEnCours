@@ -1,4 +1,4 @@
-<?php include "header.php"; ?>
+<?php include "nav_espaceadmin.php"; ?>
 
 <div id="bids" class="container-row text-center">
     <div class="row">

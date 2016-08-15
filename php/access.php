@@ -1,7 +1,6 @@
 
 <?php
-include "../init.php";
-include "..fonctions.php";
+
 function emailExist($email) {
     $resultat = dataSelect("id", "users", "email", $email, 0);
     if (empty($resultat)) return FALSE;
